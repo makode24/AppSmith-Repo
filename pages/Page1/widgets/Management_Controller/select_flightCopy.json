@@ -1,0 +1,73 @@
+{
+    "boxShadow": "none",
+    "iconSVG": "/static/media/icon.a62f1265827a5af78966a733a05697db.svg",
+    "labelText": "Flights",
+    "topRow": 8,
+    "labelWidth": "6",
+    "type": "SELECT_WIDGET",
+    "serverSideFiltering": false,
+    "defaultOptionValue": "GREEN",
+    "animateLoading": true,
+    "leftColumn": 2,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"}
+    ],
+    "placeholderText": "Select option",
+    "isDisabled": false,
+    "isRequired": false,
+    "dynamicHeight": "FIXED",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "version": 1,
+    "tags": [
+        "Suggested",
+        "Select"
+    ],
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "needsErrorInfo": false,
+    "mobileBottomRow": 8,
+    "widgetName": "select_flightCopy",
+    "isFilterable": true,
+    "displayName": "Select",
+    "searchTags": ["dropdown"],
+    "bottomRow": 15,
+    "parentRowSpace": 10,
+    "hideCard": false,
+    "mobileRightColumn": 22,
+    "parentColumnSpace": 12.8603515625,
+    "dynamicTriggerPathList": [],
+    "labelPosition": "Left",
+    "sourceData": [
+        {
+            "code": "BLUE",
+            "name": "Blue"
+        },
+        {
+            "code": "GREEN",
+            "name": "Green"
+        },
+        {
+            "code": "RED",
+            "name": "Red"
+        }
+    ],
+    "key": "2gztwhl5xe",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 22,
+    "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.9aef24cb159e9c6e4d0f1d7ca4fb0c79.svg",
+    "widgetId": "spddj3gjys",
+    "optionValue": "code",
+    "minWidth": 450,
+    "parentId": "hme2w5on37",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 1,
+    "optionLabel": "code",
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 2,
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4
+}
