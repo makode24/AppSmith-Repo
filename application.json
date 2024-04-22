@@ -15,6 +15,9 @@
   },
   "color": "#D9E7FF",
   "icon": "cricket",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
