@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 0,
-    "bottomRow": 4,
+    "topRow": 1,
+    "bottomRow": 5,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 6.5693359375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 42,
+    "leftColumn": 40,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,7 +31,7 @@
     "text": "Type: Theme Park",
     "key": "kv51ei7ku1",
     "isDeprecated": false,
-    "rightColumn": 64,
+    "rightColumn": 62,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "FIXED",
