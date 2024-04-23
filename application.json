@@ -2,10 +2,14 @@
   "pages": [
     {
       "id": "Page1",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Home",
+      "isDefault": true
+    },
+    {
+      "id": "Page 2",
       "isDefault": false
     }
   ],
