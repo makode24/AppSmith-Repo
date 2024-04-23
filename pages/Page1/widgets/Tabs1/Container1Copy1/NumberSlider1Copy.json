@@ -1,5 +1,5 @@
 {
-    "defaultValue": "5",
+    "defaultValue": "3.5",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.f1c0a9f4c08502584d745ce2fb2fbb23.svg",
     "tooltipAlwaysOn": false,
     "labelText": "Rating",
