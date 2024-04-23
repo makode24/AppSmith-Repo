@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  public.users
+WHERE
+  "latitude" ilike '%{{Select1.filterText}}%'
