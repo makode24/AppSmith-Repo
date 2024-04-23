@@ -219,7 +219,7 @@
     "rightColumn": 64,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.902d280515fd575657e8ccf99545112b.svg",
     "widgetId": "i9ub2ist9t",
-    "defaultTab": "Flights",
+    "defaultTab": "Hotels",
     "onTabSelected": "",
     "minWidth": 450,
     "tabsObj": {

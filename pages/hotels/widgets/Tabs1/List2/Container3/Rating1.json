@@ -36,7 +36,7 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "mobileTopRow": 0,
-    "defaultRate": "3",
+    "defaultRate": "4",
     "activeColor": "#3b82f6",
     "size": "LARGE",
     "mobileLeftColumn": 35,

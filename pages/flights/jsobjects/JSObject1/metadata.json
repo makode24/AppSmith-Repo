@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
     "name": "JSObject1",
-    "pageId": "Page 2",
+    "pageId": "flights",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -9,7 +9,7 @@
     "variables": [],
     "userPermissions": []
   },
-  "id": "Page 2_JSObject1",
+  "id": "flights_JSObject1",
   "deleted": false,
-  "gitSyncId": "66269fa3d80c6a2df406003b_908cd7f7-6af2-4042-aa82-eb1019521c8f"
+  "gitSyncId": "66269fa3d80c6a2df406003b_6626b6f32f153f12532328c1"
 }

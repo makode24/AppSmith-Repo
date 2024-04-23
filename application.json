@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "flights",
       "isDefault": false
     },
     {
@@ -9,7 +9,7 @@
       "isDefault": true
     },
     {
-      "id": "Page 2",
+      "id": "hotels",
       "isDefault": false
     }
   ],

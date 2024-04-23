@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page 2",
-    "slug": "page-2",
+    "name": "hotels",
+    "slug": "hotels",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 740,
+          "bottomRow": 1300,
           "containerStyle": "none",
           "snapRows": 128,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page 2",
+        "id": "hotels",
         "deleted": false,
         "policies": [],
         "userPermissions": []
