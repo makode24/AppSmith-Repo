@@ -4,6 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 33,
     "widgetName": "Button3",
+    "onClick": "{{showAlert('You are going to delete the flight', 'warning');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",
@@ -19,7 +20,7 @@
     "mobileRightColumn": 61,
     "animateLoading": true,
     "parentColumnSpace": 12.8603515625,
-    "dynamicTriggerPathList": [],
+    "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 48,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},

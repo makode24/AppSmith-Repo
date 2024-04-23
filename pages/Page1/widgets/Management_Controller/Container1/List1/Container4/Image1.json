@@ -14,11 +14,11 @@
     "dynamicTriggerPathList": [],
     "imageShape": "RECTANGLE",
     "dynamicBindingPathList": [
-        {"key": "image"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "image"}
     ],
     "leftColumn": 0,
-    "defaultImage": "https://media.cntraveler.com/photos/62a7d0631b2560\u202619,h_2789,c_limit/Business%20Air%20France%201.jpg",
+    "defaultImage": "",
     "flexVerticalAlignment": "start",
     "key": "5zudmv9s1y",
     "image": "{{currentItem.img}}",
